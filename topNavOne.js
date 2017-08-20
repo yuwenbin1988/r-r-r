@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from 'react';   
 import {Col,Row} from 'antd';
 
 class App extends Component {
